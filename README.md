@@ -46,3 +46,10 @@ cd ANOVA-Ant-Attraction
 pip install pandas scipy statsmodels matplotlib  
 ```
 3. Run the analysis script using Jupyter Notebook or a Python IDE.
+
+## Insights
+This analysis revealed that while bread types do not significantly affect ant attraction, sandwich toppings and butter presence play crucial roles. These findings provide insights into ant food preferences and their behavioral patterns.
+
+## Author
+Aundrila Acharjee
+
