@@ -24,7 +24,7 @@ Ants are known for their ability to locate food efficiently. This project explor
 - **Butter Presence:** Sandwiches with butter attracted significantly more ants.
 
 ## Dataset Description
-The datasetincludes:
+The dataset includes:
 
 - **Ameisen:** Number of ants attracted (continuous variable).
 - **Brot:** Bread type (categorical: Vollkorn, Mehrkorn, Roggen, Weißbrot).
@@ -34,4 +34,11 @@ The datasetincludes:
 ## Tools and Libraries
 - **Programming Language:** Python
 - **Libraries:** pandas, scipy, statsmodels, matplotlib
+
+## How to Run
+1. Clone the repository
+```bash
+git clone https://github.com/Aundrila/ANOVA-Ant-Attraction.git  
+cd ANOVA-Ant-Attraction  
+
 
