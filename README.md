@@ -40,5 +40,9 @@ The dataset includes:
 ```bash
 git clone https://github.com/Aundrila/ANOVA-Ant-Attraction.git  
 cd ANOVA-Ant-Attraction  
-
-
+```
+2. Install Dependencies
+```bash
+pip install pandas scipy statsmodels matplotlib  
+```
+3. Run the analysis script using Jupyter Notebook or a Python IDE.
